@@ -27,53 +27,6 @@
 
   
 
-<!-- About the Project -->
-## About the Project
-This Repository is to assist others in their pentesting adventures in addition to helping those get their feet wet for Ducky Scripts 🐥
-
-<!-- Rubber Ducky -->
-## Rubber Ducky
-A USB Rubber Ducky is a keystroke injection tool that looks like a USB flash drive. When plugged in, it executes pre-programmed scripts that mimic keyboard input, allowing for quick automation of tasks such as penetration testing and security assessments.
-
-## Shop
-<details>
-  <summary>Hak5</summary>
-  <ul>
-    <li><a href="https://shop.hak5.org">Hak5 Shop</a></li>
-    <li><a href="https://shop.hak5.org/products/usb-rubber-ducky">Rubber Ducky</a></li>
-    <li><a href="https://payloadhub.com/blogs/payloads">Hak5's Payload Hub</a></li>
-    <li><a href="https://docs.hak5.org/hak5-usb-rubber-ducky">Official Ducky Script Documentation</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Flipper Zero</summary>
-  <ul>
-    <li><a href="https://shop.flipperzero.one">Flipper Zero Shop</a></li>
-    <li><a href="https://docs.flipper.net/bad-usb">Flipper Zero's Badusb Documentation</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Digispark</summary>
-  <ul>
-    <li><a href="https://www.amazon.com/digispark/s?k=digispark">Amazon Digispark</a></li>
-    <li><a href="https://blog.spacehuhn.com/badusb-digispark">Digispark Badusb</a></li>
-    <li><a href="https://github.com/CharlesTheGreat77/DigiPass">Digispark Badusb Payloads</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>External Flipper Resources</summary>
-  <ul>
-    <li><a href="https://github.com/jamisonderek">Mr. Derek Jamison</a></li>
-  </ul>
-</details>
-
-<!-- Prerequisites -->
-## Prerequisites
-This project (and the Flipper Zero as a whole) uses *Ducky Script version 1*. Additionally, most payloads are tested in a *Windows 10* environment. Further testing will be needed on *Windows 11* environment security standards.
-
 <!-- Getting Started -->
 ## Getting Started 
 This is a VERY brief explanation of ducky script in my own words. One may refer to this <a href="https://gist.github.com/methanoliver/efebfe8f4008e167417d4ab96e5e3cac">link</a> if in doubt of supported commands.
@@ -186,31 +139,6 @@ discord_webook = %CHANGE_ME%
 ```
 smtp_server = %CHANGE_ME%
 ```
-
-<!-- Download -->
-# Installation
-<details>
-    <summary>Install BADUSB Repository 🖥️</summary>
-    <details>
-        <summary>Windows Install 🪟</summary>
-            <ul>
-                <li>Download the zip and extract the contents in your preffered directory.</li>
-            </ul>
-            <ul>
-                <img src="assets/download.png" alt="logo" width="auto" height="auto" />
-            </ul>
-    </details>
-    <details>
-        <summary>Linux Download 🖥️</summary>
-        <ul>
-            <li>In any terminal:</li>
-            <pre><code>git clone https://github.com/CharlesTheGreat77/BADUSB</code></pre>
-        </ul>
-    </details>
-
-</details>
-
-
 <!-- Deployment -->
 ## Deployment
 
